@@ -1,8 +1,12 @@
-<h1 align="center">Hi 👋, I'm Narayan</h1>
+<br><br>
+
+<h1 align="center">Hi 👋, I'm Narayan!</h1>
 
 <h3 align="center">I'm a computer science enthusiast with passion for creating innovative solutions & solving complex technical problems. I'm always eager to learn & grow my skills!</h3>
 
-<br>
+<br><br>
+
+<h1 align="center">Profile Views:</h1>
 
 <p align="center"><img src="https://profile-counter.glitch.me/{narayan-sajeev}/count.svg"></p>
 
