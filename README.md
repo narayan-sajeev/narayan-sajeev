@@ -1,5 +1,3 @@
-<br><br>
-
 <h1 align="center">Hi 👋, I'm Narayan!</h1>
 
 <h3 align="center">I'm a computer science enthusiast with passion for creating innovative solutions & solving complex technical problems. I'm always eager to learn & grow my skills!</h3>
