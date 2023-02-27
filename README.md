@@ -8,6 +8,7 @@
 <p align="center">
   <a href="http://torrinleonard.com/">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayan-sajeev&show_icons=true&locale=en&layout=compact&theme=dark&hide=html" alt="narayan-sajeev">
+    <br><br><br>
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=narayan-sajeev&show_icons=true&locale=en&theme=dark" alt="narayan-sajeev">		  
   </a>
 </p>
