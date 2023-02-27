@@ -2,6 +2,8 @@
 
 <h3 align="center">I'm a computer science enthusiast with passion for creating innovative solutions & solving complex technical problems. I'm always eager to learn & grow my skills!</h3>
 
+<br>
+
 <h3 align="center">Languages & Tools:</h3>
 
 #
