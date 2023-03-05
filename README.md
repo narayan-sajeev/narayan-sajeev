@@ -21,7 +21,7 @@
     <br><br><br>
     <img width="50%" src="https://github-readme-stats.vercel.app/api?username=narayan-sajeev&show_icons=true&theme=dark" alt="narayan-sajeev">		  
 </p>
-
+<!-- 
 <br><br>
 
 #
@@ -30,4 +30,4 @@
 
 <p align="center">
     <img src="https://metrics.lecoq.io/narayan-sajeev">
-</p>
+</p> -->
