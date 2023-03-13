@@ -17,11 +17,11 @@
 <br><br>
 
 <p align="center">
-    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayan-sajeev&show_icons=true&layout=compact&theme=dark&hide=html" alt="narayan-sajeev">
+    <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayan-sajeev&layout=compact&hide=html" alt="narayan-sajeev">
     <br><br><br>
-    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=narayan-sajeev&show_icons=true&theme=dark" alt="narayan-sajeev">		  
+    <img width="50%" src="https://github-readme-stats.vercel.app/api?username=narayan-sajeev&show_icons=true" alt="narayan-sajeev">
 </p>
-<!-- 
+
 <br><br>
 
 #
@@ -30,4 +30,4 @@
 
 <p align="center">
     <img src="https://metrics.lecoq.io/narayan-sajeev">
-</p> -->
+</p>
