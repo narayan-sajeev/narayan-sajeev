@@ -18,6 +18,4 @@
 
 <p align="center">
     <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs?username=narayan-sajeev&layout=compact&hide=html" alt="narayan-sajeev">
-    <br><br><br>
-    <img src="https://metrics.lecoq.io/narayan-sajeev">
 </p>
