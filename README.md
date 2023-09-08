@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Narayan!</h1>
 
-<p align="center" style="font-size:1.5rem;">Computer science enthusiast with a passion for creating innovative solutions.<br>Always eager to learn & grow my skills!</p>
+<h3 align="center" style="font-weight:400;">Computer science enthusiast with a passion for creating innovative solutions.<br>Always eager to learn & grow my skills!</h3>
 
 <br>
 
